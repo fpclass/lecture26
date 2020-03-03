@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 -- Functional Programming (CS141)                                             --
--- Lecture 24: Type promotion & GADTs                                         --
+-- Lecture: Type promotion & GADTs                                            --
 --------------------------------------------------------------------------------
 
 {-# LANGUAGE DataKinds, GADTs, KindSignatures, ScopedTypeVariables #-}

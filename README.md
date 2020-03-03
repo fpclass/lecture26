@@ -1,2 +1,3 @@
-# lecture24
-Code shown in the 24th lecture, which is on "Type promotion &amp; GADTs"
+# Lecture: Type promotion & GADTs
+
+Code shown in the CS141 lecture on type promotion and GADTs.
